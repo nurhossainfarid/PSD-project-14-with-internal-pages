@@ -282,8 +282,11 @@ img {
             font-size: 16px;
         }
         .content_t {
+            width: 90%;
+        }
+        .content_t_wrp {
             width: 100%;
-            margin: 0px;
+            margin-left: 0px;
         }
         .content_t_d_t {
             display: flex;
@@ -532,7 +535,7 @@ img {
 
         /*Gallery*/
         .content_b a {
-            font-size: 9px;
+            font-size: 13px;
         }        
         /*full_width*/
         .content_t_t .h_1 {
@@ -631,8 +634,11 @@ img {
             font-size: 16px;
         }
         .content_t {
+            width: 90%;
+        }
+        .content_t_wrp {
             width: 100%;
-            margin: 0px;
+            margin-left: 0px;
         }
         .content_t_d_t {
             display: flex;
@@ -705,6 +711,6 @@ img {
 
     @media (max-width:460px) {
         .content_b a {
-            font-size: 6px;
+            font-size: 10px;
         }
     }
